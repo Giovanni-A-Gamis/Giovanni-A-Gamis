@@ -18,4 +18,6 @@
 
 ---
 
-📫 Entre em contato: giovanni.gamis@hotmail.com
+📫 Entre em contato: 
+    giovanni.gamis@hotmail.com
+    https://www.linkedin.com/in/giovanni-a-gamis/
