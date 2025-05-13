@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Giovanni Alcaraz Gamis
 
-<!--
-**Jovani-007/Jovani-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante Técnico em Desenvolvimento de Sistemas  
+📚 Vestibulando focado em Análise e Desenvolvimento de Sistemas (ADS)  
+💼 Coordenador Financeiro do Grêmio Estudantil Athena
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias em foco
+- TypeScript | JavaScript | Java | Python 
+- Node.js | Express.js
+- React | React Native
+- MySQL | SQLite
+- APIs REST | Bluetooh API
+- Interesse em tecnologias de nuvem
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Projetos em destaque
+- **MemóriaAtiva (em desenvolvimento)** – App mobile para treinar a memória com apoio sensorial e gamificação
+- **API Y** - API REST feita com objetivo de complementar um front-end proposto pela Venturus, uma rede social paródia do twitter 
+
+---
+
+📫 Entre em contato: giovanni.gamis@hotmail.com
