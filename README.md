@@ -5,12 +5,11 @@
 💼 Coordenador Financeiro do Grêmio Estudantil Athena
 
 ## 🚀 Tecnologias em foco
-- TypeScript | JavaScript | Java | Python 
+- TypeScript | JavaScript | Java 
 - Node.js | Express.js
 - React | React Native
 - MySQL | SQLite
-- APIs REST | Bluetooh API
-- Interesse em tecnologias de nuvem
+- APIs REST
 
 ## 🔧 Projetos em destaque
 - **MemóriaAtiva (em desenvolvimento)** – App mobile para treinar a memória com apoio sensorial e gamificação
