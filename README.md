@@ -5,7 +5,7 @@
 💼 Coordenador Financeiro do Grêmio Estudantil Athena
 
 ## 🚀 Tecnologias em foco
-- TypeScript | JavaScript | Java 
+- JavaScript | Java | C
 - Node.js | Express.js
 - React | React Native
 - MySQL | SQLite
