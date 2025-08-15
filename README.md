@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Giovanni Alcaraz Gamis
 
 🎓 Estudante Técnico em Desenvolvimento de Sistemas  
-📚 Vestibulando focado em Matemática Aplicada e Computacional MAC
+📚 Vestibulando focado em Matemática Aplicada e Computacional (MAC)
 💼 Coordenador Financeiro do Grêmio Estudantil Athena
 
 ## 🚀 Tecnologias em foco
@@ -19,4 +19,4 @@
 
 📫 Entre em contato: 
     giovanni.gamis@hotmail.com
-    https://www.linkedin.com/in/giovanni-a-gamis/
+    https
