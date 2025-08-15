@@ -19,4 +19,4 @@
 
 📫 Entre em contato: 
     giovanni.gamis@hotmail.com
-    https
+    https://br.linkedin.com/in/giovanni-a-gamis
