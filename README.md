@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Giovanni Alcaraz Gamis
 
 🎓 Estudante Técnico em Desenvolvimento de Sistemas  
-📚 Vestibulando focado em Análise e Desenvolvimento de Sistemas (ADS)  
+📚 Vestibulando focado em Matemática Aplicada e Computacional (MAC) 
 💼 Coordenador Financeiro do Grêmio Estudantil Athena
 
 ## 🚀 Tecnologias em foco
@@ -12,7 +12,7 @@
 - APIs REST
 
 ## 🔧 Projetos em destaque
-- **MemóriaAtiva (em desenvolvimento)** – App mobile para treinar a memória com apoio sensorial e gamificação
+- **MemóriaAtiva (em desenvolvimento)** – App mobile para treinar, estimular e auxilar na memória com apoio sensorial e gamificação
 - **API Y** - API REST feita com objetivo de complementar um front-end proposto pela Venturus, uma rede social paródia do twitter 
 
 ---
